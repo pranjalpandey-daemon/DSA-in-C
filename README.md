@@ -6,6 +6,7 @@ I am currently learning and implementing different concepts step by step.
 🚀Learning DSA from scratch in C
 ✍️includes basics to advanced implementations 
 📂 Covers arrays, linked lists, stacks, queues, sorting, searching, trees, graphs, and more
+<<<<<<< HEAD
 📝Each program is written in the C language (.c Files)
 
 ## Arrays 
@@ -13,3 +14,21 @@ I am currently learning and implementing different concepts step by step.
        It is basically about the basics of the array and some basic code related to it.
 ### 📍array_insertion.c
        It is about the insertion in the array, that how we perform the insertion process in the array.
+=======
+📝Each program is written in C language (.c Files)
+
+### 📌 About
+🚀Learning DSA from scratch in C
+✍️includes basics to advanced implementations 
+📂 Covers arrays, linked lists, stacks, queues, sorting, searching, trees, graphs, and more
+📝Each program is written in the C language (.c Files)
+
+## Arrays 
+### 📍 array_basic.c
+       It is basically about the basics of the array and some basic code related to it.
+### 📍 array_insertion.c
+       It is about the insertion in the array, that how we perform the insertion process in the array.
+
+## 🔜 Array_deletion
+##     Linkedlist     
+>>>>>>> 11214f5 (hey there it's Daemon! I want to work together)
