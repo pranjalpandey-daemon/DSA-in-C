@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="assets/971.jpg" alt="DSA-in-C Banner"/>
+</p>
+
+
+
+
 # 🚀 DSA-in-C
 
 Welcome to **DSA-in-C** — my personal journey of learning and practicing **Data Structures & Algorithms (DSA)** in the C language.  
