@@ -37,11 +37,11 @@ This repository is structured, beginner-friendly, and continuously updated as I 
 ### 🔹 Arrays
 - **array_basic.c** → Basics of arrays & some fundamental operations  
 - **array_insertion.c** → Demonstrates insertion operations in arrays  
-- 🔜 **array_deletion.c** → (Coming soon) Array deletion examples  
+- **array_deletion.c** → Array deletion examples  
 
 ### 🔹 Strings
 - 🔜 **whti_string.c** → (Coming soon) Basic string operations  
-
+- 🔜 **strlen.c** → (Coming soon) Shows manual pointer and loop logic — foundation.
 ---
 
 ## 🚀 How to Run
