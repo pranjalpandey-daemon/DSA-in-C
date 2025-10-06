@@ -42,8 +42,7 @@ This repository is structured, beginner-friendly, and continuously updated as I 
 - **array_searching.c** → How to search for an element in an array.
 
 ### 🔹 Strings
-- **strings_basics.c** → Basics of strings & some fundamental operations.
-- 🔜 **whti_string.c** → (Coming soon) Basic string operations.  
+- **strings_basics.c** → Basics of strings & some fundamental operations.  
 - 🔜 **strlen.c** → (Coming soon) Shows manual pointer and loop logic — foundation.
 ---
 
