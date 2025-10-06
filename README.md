@@ -35,13 +35,15 @@ This repository is structured, beginner-friendly, and continuously updated as I 
 ## 📂 Current Implementations
 
 ### 🔹 Arrays
-- **array_basic.c** → Basics of arrays & some fundamental operations  
-- **array_insertion.c** → Demonstrates insertion operations in arrays  
-- **array_deletion.c** → Array deletion examples  
+- **array_basic.c** → Basics of arrays & some fundamental operations.  
+- **array_insertion.c** → Demonstrates insertion operations in arrays.  
+- **array_deletion.c** → Array deletion examples.
+- **array_traversal.c** → How to traverse an array and display its element.
+- **array_searching.c** → How to search for an element in an array.
 
 ### 🔹 Strings
-- **strings_basics.c** → Basics of strings & some fundamental operations
-- 🔜 **whti_string.c** → (Coming soon) Basic string operations  
+- **strings_basics.c** → Basics of strings & some fundamental operations.
+- 🔜 **whti_string.c** → (Coming soon) Basic string operations.  
 - 🔜 **strlen.c** → (Coming soon) Shows manual pointer and loop logic — foundation.
 ---
 
