@@ -43,7 +43,7 @@ This repository is structured, beginner-friendly, and continuously updated as I 
 
 ### 🔹 Strings
 - **strings_basics.c** → Basics of strings & some fundamental operations.  
-- 🔜 **strlen.c** → (Coming soon) Shows manual pointer and loop logic — foundation.
+- **strlen.c** → (Coming soon) Shows manual pointer and loop logic — foundation.
 ---
 
 ## 🚀 How to Run
