@@ -2,11 +2,11 @@
 
 int main() {
     // Step 1: Create a string (a group of characters)
-    char name[10];  // This means we can store up to 9 characters + 1 for the special end character '\0'
+    char name[50];  // This means we can store up to 49 characters + 1 for the special end character '\0'
 
     // Step 2: Ask the user to type a word or sentence
     printf("Please enter a word or sentence: ");
-    scanf("%9s", name);  // This reads the input and stores it in the 'name' array, limiting to 9 characters
+    scanf("%49s", name);  // This reads the input and stores it in the 'name' array, limiting to 49 characters
 
     // Step 3: Use a pointer to go through each character one by one
     char *ptr = name;  // 'ptr' now points to the first character of the string
